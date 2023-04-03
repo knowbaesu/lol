@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59bc66df-0564-46f1-803b-4e0da59b7892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59bc66df-0564-46f1-803b-4e0da59b7892" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +66,7 @@
       <workItem from="1680188226431" duration="630000" />
       <workItem from="1680272211370" duration="362000" />
       <workItem from="1680320693322" duration="2421000" />
-      <workItem from="1680420220582" duration="1189000" />
+      <workItem from="1680420220582" duration="1803000" />
     </task>
     <servers />
   </component>
