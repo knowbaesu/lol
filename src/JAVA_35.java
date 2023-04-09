@@ -1,5 +1,3 @@
-package JAVA_0308;
-
 public class JAVA_35 {
 
 	public static void main(String[] args) {
