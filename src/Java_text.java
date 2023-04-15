@@ -1,5 +1,3 @@
-package JAVA_0308;
-
 import java.util.Scanner;
 
 public class Java_text {

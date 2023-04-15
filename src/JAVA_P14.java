@@ -1,5 +1,3 @@
-package JAVA_0308;
-
 public class JAVA_P14 {
 
 	public static void main(String[] args) {

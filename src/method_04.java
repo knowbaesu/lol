@@ -1,5 +1,3 @@
-package java09;
-
 public class method_04 {
 
 	public static void main(String[] args) {
