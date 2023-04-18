@@ -1,5 +1,3 @@
-package java07;
-
 import java.util.Scanner;
 
 public class java_a8 {
